@@ -1,0 +1,5 @@
+# Local system aliases
+# Exchange pgt<->office
+imp-docs-pgt-office:	"|/usr/local/bin/imp-docs-pgt-office.sh" root
+imp-data-pgt-office:	"|/usr/local/bin/imp-data-pgt-office.sh" root
+

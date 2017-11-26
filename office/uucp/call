@@ -1,0 +1,7 @@
+# This is an example of a call file. This file have the syntax compatible
+# with Taylor UUCP (not HDB nor anything else). Please check uucp
+# documentation if you are not sure how Taylor config files are supposed to
+# look like. Edit it as appropriate for your system.
+
+# Everything after a '#' character is a comment.
+eva.dp.ua uucp YOURPASSWORD
